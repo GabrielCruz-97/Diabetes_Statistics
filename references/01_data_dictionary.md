@@ -1,0 +1,24 @@
+# Data dictionary
+
+- `Diabetes_binary`: 0 = no diabetes, 1 = diabetes
+- `HighBP`: 0 = no high blood pressure, 1 = high blood pressure
+- `HighChol`: 0 = no high cholesterol, 1 = high cholesterol
+- `CholCheck`: 0 = has never had a cholesterol test, 1 = has had a cholesterol test at least once
+- `BMI`: Body Mass Index (BMI)
+- `Smoker`: 0 = non-smoker, 1 = smoker
+- `Stroke`: 0 = no history of stroke, 1 = history of stroke
+- `HeartDiseaseorAttack`: 0 = no history of heart disease or heart attack, 1 = history of heart disease or heart attack
+- `PhysActivity`: 0 = does not engage in physical activity, 1 = engages in physical activity
+- `Fruits`: 0 = does not consume fruits, 1 = consumes fruits
+- `Veggies`: 0 = does not consume vegetables, 1 = consumes vegetables
+- `HvyAlcoholConsump`: 0 = does not consume high amounts of alcohol, 1 = consumes high amounts of alcohol
+- `AnyHealthcare`: 0 = does not have health insurance, 1 = has health insurance
+- `NoDocbcCost`: 0 = avoided a doctor visit due to financial reasons, 1 = did not avoid a doctor visit due to financial reasons (last 12 months)
+- `GenHlth`: General health (1 to 5) - 1 = Excellent, 2 = Very good, 3 = Good, 4 = Acceptable, 5 = Poor
+- `MentHlth`: Number of days in the past 30 days when mental health was not good (0 to 30)
+- `PhysHlth`: Number of days in the past 30 days when physical health was not good (0 to 30)
+- `DiffWalk`: 0 = no difficulty walking, 1 = difficulty walking
+- `Sex`: 0 = female, 1 = male
+- `Age`: Age groups 1 = 18-24; 2 = 25-29; 3 = 30-34; 4 = 35-39; 5 = 40-44; 6 = 45-49; 7 = 50-54; 8 = 55-59; 9 = 60-64; 10 = 65-69; 11 = 70-74; 12 = 75-79; 13 = 80+
+- `Education`: Education levels 1 = never attended school; 2 = elementary school; 3 = incompleted high school; 4 = high school graduate; 5 = incompleted undergraduation or technical course; 6 = undergraduation or higher degrees
+- `Income`: Annual income brackets in USD 1 = < 10,000; 2 = 10,000-14,999; 3 = 15,000-19,999; 4 = 20,000-24,999; 5 = 25,000-34,999; 6 = 35,000-49,999; 7 = 50,000-74,999; 8 = 75,000+ 
