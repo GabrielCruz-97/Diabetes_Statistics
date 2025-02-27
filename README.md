@@ -6,7 +6,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is a health-related telep
 
 [Dataset on Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
-![imagem](imagens/cover_www.canva.com.png.jpg)
+![image](images/cover_www.canva.com.png)
 
 ## Project Organization
 
@@ -43,8 +43,7 @@ Analysing the relationship between diabetes and BMI using three differente stati
 
 #### For the categorical variables
 
-![imagem](imagens/cover_www.canva.com.png)
-![imagem](imagens/binary.png)
-![imagem](imagens/nonbinary.png)
-![imagem](imagens/education.png)
-![imagem](imagens/correlation.png)
+![image](images/binary.png)
+![image](images/nonbinary.png)
+![image](images/education.png)
+![image](images/correlation.png)
